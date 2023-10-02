@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<appProperties xmlns="http://schemas.mathworks.com/matlab/app/2012/appProperties" signature="263FAC87934AFA9707FBAE04AFEB60728B45FD51">
+
+  <entryPoint>GUI</entryPoint>
+
+  <name>Turbofan Engine Analysis - Tom Holiday - 201015193</name>
+
+  <version>1.0</version>
+
+  <createdByMATLABRelease>(R2019b)</createdByMATLABRelease>
+
+  <GUID>86cb3df6-0c78-4219-aeb9-134d04730970</GUID>
+
+  <description>General Electric CFM56-5C non-mixing turbofan engine thermodynamic cycle analysis</description>
+
+  <author>
+    <name>Tom Holiday</name>
+    <contact>tom.holiday@mac.com</contact>
+    <organization></organization>
+  </author>
+
+  <supportedPlatforms/>
+
+  <requiredProducts/>
+
+  <numFiles>3</numFiles>
+
+  <created>2020-03-25T11:32:33Z</created>
+
+  <appEntries>
+    <appFile>/GUI.mlapp</appFile>
+    <appFile>/university-leeds_700x301.png</appFile>
+    <appFile>/Picture 3.png</appFile>
+  </appEntries>
+
+</appProperties>
